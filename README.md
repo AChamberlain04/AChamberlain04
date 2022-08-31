@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in hunting, fishing, and mastering code
-- 🌱 I’m currently learning file systems and git flow
-- 💞️ I’m looking to collaborate on a variety of projects
+- 🌱 I’m currently enrolled in BloomTech for Full Stack Web Development
 - 📫 How to reach me a.chamberlain04@gmail.com
 
 <!---
