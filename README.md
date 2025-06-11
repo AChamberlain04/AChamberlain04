@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 🌱 I’m currently enrolled in BloomTech for Full Stack Web Development
+- 🌱 I’m currently going through the 100devs course to become a software engineer in web development.
 - 📫 How to reach me a.chamberlain04@gmail.com
 
 <!---
