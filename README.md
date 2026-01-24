@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 🌱 I’m currently going through the 100devs course to become a software engineer in web development.
+- 🌱 I’m a software engineer who builds websites and web apps.
 - 📫 How to reach me a.chamberlain04@gmail.com
 
 <!---
