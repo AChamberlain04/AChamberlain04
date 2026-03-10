@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 [Carl Hall Well Drilling LLC./Initial Web Presence]  (https://www.carlhallwelldrilling.com)
 
 ## Recent Projects ##
-[Stargazers Society/ NASA picture of the day] (https://www.https://candid-panda-b101e0.netlify.app/)
+[Stargazers Society/ NASA picture of the day] (https://candid-panda-b101e0.netlify.app/)
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate software developer from Erie Pennsylvania</h3>
 
