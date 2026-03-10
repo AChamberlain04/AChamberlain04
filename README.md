@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on [a stargazers api]([)](candid-panda-b101e0.netlify.app/)
-
 - 🤝 I’m looking for help with [Body Building Routine Schedule](in progress, not hosted yet)
 
 - 👨‍💻 All of my projects are available at [https://achamberlain04.github.io/Portfolio/](https://achamberlain04.github.io/Portfolio/)
